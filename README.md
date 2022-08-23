@@ -4,6 +4,7 @@
 
 ## <h3 align="left">Experience in Web Tesing Using:</h3>
 - Java
+- Selenium
 - Maven
 - TestNG
 - JUnit
