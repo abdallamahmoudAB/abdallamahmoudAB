@@ -1,6 +1,6 @@
 ### Hi, I'm abdalla mahmoud 👋
-#### I'm a Passionate Test Automation Engineer with Experience in Mobile Development
-<q>Knowledge is Power and Learning is my SuperPower</q>
+#### A passionate Test Automation Engineer who has Ability to Manage Multiple Automation Projects on Multiple Automation Tools, Manage the Complete Automation phases from Initiating, Planning, Executing, Controlling, and Reporting.
+
 
 ## <h3 align="left">Experience in Web Tesing Using:</h3>
 - Java
